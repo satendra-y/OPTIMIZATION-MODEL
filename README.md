@@ -73,3 +73,7 @@ The "what-if" scenario is particularly valuable as it simulates varying wood res
 3. Insights such as shadow prices provide a clear direction on which resource investments can yield the highest returns.
 
 
+**OUTPUT**: TASK 4
+
+
+
