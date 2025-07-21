@@ -75,5 +75,6 @@ The "what-if" scenario is particularly valuable as it simulates varying wood res
 
 **OUTPUT**: TASK 4
 
+![Image](https://github.com/user-attachments/assets/6d775a09-f44b-499e-b689-4313116ecee4)
 
 
